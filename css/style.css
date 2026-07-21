@@ -394,7 +394,6 @@
     cursor: pointer;
     color: #1e291e;
     background-color: #fff;
-    background-color: red;
     border: 2px solid #fff;
     border-radius: 8px;
     font-weight: bold;
@@ -408,7 +407,7 @@
 
 .btn:active {
     opacity: 1;
-    transform: scale(.7);
+    transform: scale(0.97);
     transition: none;
 }
 
