@@ -393,10 +393,12 @@
     white-space: nowrap;
     cursor: pointer;
     color: #1e291e;
+    color: red;
     background-color: #fff;
     border: 2px solid #fff;
     border-radius: 8px;
     font-weight: bold;
+    position: relative
 }
 .btn:hover {
     opacity: .6;
